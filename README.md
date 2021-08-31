@@ -1,11 +1,11 @@
 # Minecraft-Mythical-Cookie-Origin
-- Mythical Cookie Datapack
+Mythical Cookie Datapack
 
-- NOTE: !!!Only Install the "mythical_cookie_origin.zip" by clicking on it. (It will not work if you "Code" download it)!!!
+NOTE: !!!Only Install the "mythical_cookie_origin.zip" by clicking on it. (It will not work if you "Code" download it)!!!
 
-- This Datapack only requires the [Origins Mod](https://www.curseforge.com/minecraft/mc-mods/origins)
+This Datapack only requires the [Origins Mod](https://www.curseforge.com/minecraft/mc-mods/origins)
 
-- Powers:
+Powers:
 
 - (+) Cookie Dough Shotgun {Secondary} Shoot Three Shulker Bullets (With Cooldown)
 
